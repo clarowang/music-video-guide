@@ -10,6 +10,7 @@
 
 - 使用制作包：先读收到的包内开始说明；该版本的具体启动方式以包内说明为准。
 - 让智能体协助：[接管与排错入口](AGENTS.md)。
+- 核对自己使用的客户端：[适配现状与能力检查](CLIENTS.md)。当前只有文档调查，尚未形成新制作包兼容认证。
 - 遇到问题：[常见问题索引](FAQ.md)。
 - 查看变更：[更新记录](CHANGELOG.md)。
 - 反馈问题：[新建问题](https://github.com/clarowang/music-video-guide/issues/new?template=problem.md)。公开反馈不等于即时客服，不在此承诺响应时限。
