@@ -10,7 +10,7 @@ GPT、Claude、Grok 可以指模型；实际读取项目说明、访问文件、
 
 | 客户端 | 官方说明中的入口 | 本项目目前状态 |
 |---|---|---|
-| Codex 本地客户端 | AGENTS.md | 首批拟用客户端；新制作包仍需朋友实测 |
+| Codex 本地客户端 | AGENTS.md | 当前优先内测客户端；Mac 开发机离线检查已做，陌生客户整链仍待实测 |
 | Claude Code | CLAUDE.md；可用 `@AGENTS.md` 导入，直接读取 AGENTS.md 受版本和设置影响 | 已提供本支持库的导入入口；完整制作链未测 |
 | WorkBuddy | 官方项目文档列出 AGENTS.md / CODEBUDDY.md / .codebuddy 配置兼容 | 已提供本支持库的指引入口；客户端版本、工作空间、执行和看图需实测 |
 | Grok Build | 官方文档列出 AGENTS.md 及 Claude 指令文件兼容 | 可评估共用入口；完整制作链未测；不等同于普通 Grok 聊天界面 |
